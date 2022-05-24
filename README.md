@@ -1,6 +1,6 @@
 # youtube-downloader
 
-Python application to download youtube videos as MP3 audio files.
+Python + PySimpleGUI application to download youtube videos as MP3 audio files.
 
 1. Paste the video URL
 2. Press Search button
